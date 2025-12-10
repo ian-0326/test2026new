@@ -1,6 +1,6 @@
 /* 設置背景圖 */
 body {
-    background-image: url('ChatGPT Image 2025年12月10日 下午07_10_33.jpg'); /* 替換成您的圖片路徑/名稱 */
+    background-image: url('background.png'); /* 替換成您的圖片路徑/名稱 */
     background-size: cover;
     background-position: center;
     height: 100vh;
